@@ -15,6 +15,6 @@ function sayHiToGrandma(hello) {
   if (hello === "hello") {
     return `"I can\'t hear you!"`
   } else if (hello === "HELLO") {
-    return `
-  }
+    return `"YES INDEED!"`
+  } else if (hello === )
 }
