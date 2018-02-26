@@ -13,6 +13,6 @@ function logWhisper(hello) {
 }
 function sayHiToGrandma(hello) {
   if (hello === "hello") {
-    return `
-  }
+    return `"I can\'t hear you!"`
+  } else { 
 }
